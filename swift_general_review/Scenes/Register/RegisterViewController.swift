@@ -5,4 +5,15 @@
 //  Created by Kaan Kalaycıoğlu on 4.03.2024.
 //
 
-import Foundation
+import UIKit
+
+class RegisterViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        
+    }
+    
+
+}

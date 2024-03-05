@@ -5,4 +5,20 @@
 //  Created by Kaan Kalaycıoğlu on 4.03.2024.
 //
 
-import Foundation
+import UIKit
+
+class LoginViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        view.backgroundColor = .purple
+
+        
+    }
+    
+
+}
+
+#Preview {
+    LoginViewController()
+}
